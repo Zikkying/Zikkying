@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning applied in Material science 
 - 🌱 I’m currently learning ML as well
 - 💞️ I’m looking to collaborate on MS field
-- 📫 How to reach me Yinziqi@Gmail.com
+- 📫 How to reach me Yinziqi1@Gmail.com
 
 <!---
 Zikkying/Zikkying is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
